@@ -40,14 +40,14 @@ body{
 }
 .snake_head{
     /* background: url(../snakehead.png); */
-    background-color: brown;
+    background-color: rgb(42, 57, 117);
     background-repeat: no-repeat;
-    /* border-radius: 50%; */
+    border-radius: 50%;
     color: aliceblue;
-    /* transform: scale(1.2); */
+    transform: scale(1.1);
 }
 .snake_body{
-    background-color: rgb(244, 10, 10);
+    background-color: rgb(25, 133, 77);
     border: 1px solid white;
     border-radius: 50%;
 }
